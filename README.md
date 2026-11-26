@@ -1,6 +1,6 @@
 # CitationOne skills
 
-[![skills.sh](https://skills.sh/b/wojthub/citationone-skills)](https://skills.sh/wojthub/citationone-skills)
+[![skills.sh](https://skills.sh/b/wojthub/citationone-skills)](https://skills.sh/wojthub/citationone-skills/citationone)
 
 Agent skills for [CitationOne](https://citationone.com) - audits of how likely AI search engines (Google AI Overviews, ChatGPT, Perplexity) are to cite a web page.
 
